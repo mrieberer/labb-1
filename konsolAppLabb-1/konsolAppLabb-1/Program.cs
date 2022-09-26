@@ -20,4 +20,4 @@ void customMessage(string[] inMeddelande, int messageNumber)
     }
 }
 
-csHTMLgenerator("C# Programmet", new string[] { "Vi börjar med Git", "Sedan fokuserar vi på Backend utveckling", "SQl Server", "Frontend", "machine Learning" });
+csHTMLgenerator("C# Programmet", new string[] { "Vi börjar med Git", "Sedan fokuserar vi på Backend utveckling", "SQl Server", "Frontend", "machine Learning", "Felsökning" });
