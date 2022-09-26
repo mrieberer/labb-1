@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\bin\Debug\net6.0\konsolAppLabb-1.exe
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\bin\Debug\net6.0\konsolAppLabb-1.deps.json
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\bin\Debug\net6.0\konsolAppLabb-1.runtimeconfig.json
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\bin\Debug\net6.0\konsolAppLabb-1.dll
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\bin\Debug\net6.0\konsolAppLabb-1.pdb
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\konsolAppLabb-1.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\konsolAppLabb-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\konsolAppLabb-1.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\konsolAppLabb-1.AssemblyInfo.cs
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\konsolAppLabb-1.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\konsolAppLabb-1.dll
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\refint\konsolAppLabb-1.dll
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\konsolAppLabb-1.pdb
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\konsolAppLabb-1.genruntimeconfig.cache
+C:\Users\micha\Documents\ITHS\labb-1\konsolAppLabb-1\konsolAppLabb-1\obj\Debug\net6.0\ref\konsolAppLabb-1.dll
